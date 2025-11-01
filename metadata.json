@@ -1,0 +1,5 @@
+{
+  "name": "Revisor de Texto Humano",
+  "description": "Uma ferramenta avançada que utiliza a API Gemini para reescrever textos em português, seguindo um conjunto rigoroso de regras para garantir um resultado com fluidez, persuasão e um toque humano, eliminando padrões de escrita de IA.",
+  "requestFramePermissions": []
+}
